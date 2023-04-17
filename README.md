@@ -13,3 +13,7 @@ Sample website with plenty of files for demos
 ## Deployment
 
 ## How To Contribute
+
+### Copyright
+
+2023 Git.Training
